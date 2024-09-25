@@ -15,3 +15,4 @@ crash-reports/
 build/
 .fabric/
 __pycache__/
+patchouli_data.json
