@@ -1,0 +1,16 @@
+irisUpdateInfo.json
+options.txt
+usercache.json
+usernamecache.json
+.curseclient
+shaderpacks/
+mods/
+resourcepacks/
+saves/
+modernfix/
+logs/
+local/
+data/
+crash-reports/
+build/
+.fabric/
