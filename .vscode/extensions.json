@@ -4,6 +4,8 @@
         "donjayamanne.git-extension-pack",
         "pahimar.minecraft-essentials-extension-pack",
         "ms-python.python",
-        "tal7aouy.theme"
+        "tal7aouy.theme",
+        "mrmlnc.vscode-json5",
+        "tamasfe.even-better-toml"
     ]
 }
