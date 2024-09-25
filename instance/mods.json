@@ -1,0 +1,1157 @@
+[
+    {
+        "name": "YUNG's Menu Tweaks (Fabric)",
+        "id": 917292,
+        "file": "YungsMenuTweaks-1.20.1-Fabric-1.0.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-menu-tweaks-fabric",
+        "download": "https://edge.forgecdn.net/files/5113/569/YungsMenuTweaks-1.20.1-Fabric-1.0.2.jar"
+    },
+    {
+        "name": "o\u03c9o (owo-lib)",
+        "id": 532610,
+        "file": "owo-lib-0.11.2+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/owo-lib",
+        "download": "https://edge.forgecdn.net/files/4749/199/owo-lib-0.11.2%2b1.20.jar"
+    },
+    {
+        "name": "Ocean's\u00a0Delight",
+        "id": 841262,
+        "file": "oceansdelight-fdrf-fabric-1.0.2-1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/oceans-delight",
+        "download": "https://edge.forgecdn.net/files/5230/28/oceansdelight-fdrf-fabric-1.0.2-1.20.jar"
+    },
+    {
+        "name": "Ambient Environment",
+        "id": 320163,
+        "file": "AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ambient-environment",
+        "download": "https://edge.forgecdn.net/files/4598/389/AmbientEnvironment-fabric-1.20.1-11.0.0.1.jar"
+    },
+    {
+        "name": "Sodium/Embeddium Dynamic Lights",
+        "id": 551736,
+        "file": "sodiumdynamiclights-fabric-1.0.8-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged",
+        "download": "https://edge.forgecdn.net/files/5752/341/sodiumdynamiclights-fabric-1.0.8-1.20.1.jar"
+    },
+    {
+        "name": "Blur+",
+        "id": 393563,
+        "file": "blur-3.1.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/blur-fabric",
+        "download": "https://edge.forgecdn.net/files/4578/291/blur-3.1.0.jar"
+    },
+    {
+        "name": "YUNG's Better Ocean Monuments (Fabric)",
+        "id": 689252,
+        "file": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric",
+        "download": "https://edge.forgecdn.net/files/4883/5/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
+    },
+    {
+        "name": "Presence Footsteps",
+        "id": 334259,
+        "file": "PresenceFootsteps-1.9.4+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/presence-footsteps",
+        "download": "https://edge.forgecdn.net/files/5346/478/PresenceFootsteps-1.9.4%2b1.20.1.jar"
+    },
+    {
+        "name": "Framework",
+        "id": 549225,
+        "file": "framework-fabric-1.20.1-0.7.8.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/framework",
+        "download": "https://edge.forgecdn.net/files/5692/385/framework-fabric-1.20.1-0.7.8.jar"
+    },
+    {
+        "name": "Terralith",
+        "id": 513688,
+        "file": "Terralith_1.20.x_v2.5.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/terralith",
+        "download": "https://edge.forgecdn.net/files/5512/76/Terralith_1.20.x_v2.5.4.jar"
+    },
+    {
+        "name": "Eclectic Trove (Legendary Tooltips)",
+        "id": 538850,
+        "file": "EclecticTrove-1.20.1-1.3.0.zip",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/eclectic-trove-legendary-tooltips",
+        "download": "https://edge.forgecdn.net/files/4933/725/EclecticTrove-1.20.1-1.3.0.zip"
+    },
+    {
+        "name": "Recipe Essentials[Forge/Fabric]",
+        "id": 907856,
+        "file": "recipeessentials-fabric-1.20.1-3.6.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/recipe-essentials-forge-fabric",
+        "download": "https://edge.forgecdn.net/files/5581/358/recipeessentials-fabric-1.20.1-3.6.jar"
+    },
+    {
+        "name": "Architectury API (Fabric/Forge/NeoForge)",
+        "id": 419699,
+        "file": "architectury-9.2.14-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/architectury-api",
+        "download": "https://edge.forgecdn.net/files/5137/936/architectury-9.2.14-fabric.jar"
+    },
+    {
+        "name": "ME Requester",
+        "id": 688367,
+        "file": "merequester-fabric-1.20.1-1.1.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/merequester",
+        "download": "https://edge.forgecdn.net/files/4719/291/merequester-fabric-1.20.1-1.1.4.jar"
+    },
+    {
+        "name": "Prism [Fabric]",
+        "id": 665526,
+        "file": "Prism-1.20.1-fabric-1.0.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/prism-fabric",
+        "download": "https://edge.forgecdn.net/files/4650/327/Prism-1.20.1-fabric-1.0.5.jar"
+    },
+    {
+        "name": "YUNG's Better Mineshafts (Fabric)",
+        "id": 373591,
+        "file": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric",
+        "download": "https://edge.forgecdn.net/files/4769/64/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
+    },
+    {
+        "name": "Tips",
+        "id": 306549,
+        "file": "Tips-Fabric-1.20.1-12.1.8.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/tips",
+        "download": "https://edge.forgecdn.net/files/5547/512/Tips-Fabric-1.20.1-12.1.8.jar"
+    },
+    {
+        "name": "AppleSkin",
+        "id": 248787,
+        "file": "appleskin-fabric-mc1.20.1-2.5.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin",
+        "download": "https://edge.forgecdn.net/files/4770/825/appleskin-fabric-mc1.20.1-2.5.1.jar"
+    },
+    {
+        "name": "Fastload",
+        "id": 630620,
+        "file": "Fastload+1.18.2-1.20-3.4.0.jar.disabled",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fastload",
+        "download": "https://edge.forgecdn.net/files/4519/272/Fastload+1.18.2-1.20-3.4.0.jar"
+    },
+    {
+        "name": "Fast Async World Save[Forge/Fabric]",
+        "id": 951499,
+        "file": "fastasyncworldsave-fabric-1.20.1-1.9.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save-forge-fabric",
+        "download": "https://edge.forgecdn.net/files/5212/486/fastasyncworldsave-fabric-1.20.1-1.9.jar"
+    },
+    {
+        "name": "Fresh Animations",
+        "id": 453763,
+        "file": "FreshAnimations_v1.9.2.zip",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/fresh-animations",
+        "download": "https://edge.forgecdn.net/files/5494/142/FreshAnimations_v1.9.2.zip"
+    },
+    {
+        "name": "Nature's Compass",
+        "id": 252848,
+        "file": "NaturesCompass-1.20.1-2.2.3-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/natures-compass",
+        "download": "https://edge.forgecdn.net/files/4712/188/NaturesCompass-1.20.1-2.2.3-fabric.jar"
+    },
+    {
+        "name": "Forge Config API Port",
+        "id": 547434,
+        "file": "ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric",
+        "download": "https://edge.forgecdn.net/files/4583/0/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
+    },
+    {
+        "name": "Jade Addons (Fabric)",
+        "id": 656665,
+        "file": "JadeAddons-1.20.1-Fabric-5.3.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jade-addons-fabric",
+        "download": "https://edge.forgecdn.net/files/5592/658/JadeAddons-1.20.1-Fabric-5.3.1.jar"
+    },
+    {
+        "name": "Advancement Plaques [Fabric]",
+        "id": 514882,
+        "file": "AdvancementPlaques-1.20.1-fabric-1.6.6.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric",
+        "download": "https://edge.forgecdn.net/files/5753/641/AdvancementPlaques-1.20.1-fabric-1.6.6.jar"
+    },
+    {
+        "name": "Debugify",
+        "id": 596224,
+        "file": "Debugify-1.20.1+2.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/debugify",
+        "download": "https://edge.forgecdn.net/files/4632/961/Debugify-1.20.1%2b2.0.jar"
+    },
+    {
+        "name": "Simple Voice Chat",
+        "id": 416089,
+        "file": "voicechat-fabric-1.20.1-2.5.22.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+        "download": "https://edge.forgecdn.net/files/5716/534/voicechat-fabric-1.20.1-2.5.22.jar"
+    },
+    {
+        "name": "Resourceful Lib",
+        "id": 570073,
+        "file": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/resourceful-lib",
+        "download": "https://edge.forgecdn.net/files/5659/872/resourcefullib-fabric-1.20.1-2.1.29.jar"
+    },
+    {
+        "name": "Packet Fixer",
+        "id": 689467,
+        "file": "packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer",
+        "download": "https://edge.forgecdn.net/files/5416/165/packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar"
+    },
+    {
+        "name": "Starlight (Fabric)",
+        "id": 521783,
+        "file": "starlight-1.1.2+fabric.dbc156f.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/starlight",
+        "download": "https://edge.forgecdn.net/files/4572/96/starlight-1.1.2%2bfabric.dbc156f.jar"
+    },
+    {
+        "name": "fix GPU memory leak[Forge/Fabric]",
+        "id": 882495,
+        "file": "gpumemleakfix-fabric-1.20.1-1.8.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak",
+        "download": "https://edge.forgecdn.net/files/4884/979/gpumemleakfix-fabric-1.20.1-1.8.jar"
+    },
+    {
+        "name": "EpheroLib",
+        "id": 885449,
+        "file": "EpheroLib-1.20.1-FABRIC-1.2.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/epherolib",
+        "download": "https://edge.forgecdn.net/files/4949/797/EpheroLib-1.20.1-FABRIC-1.2.0.jar"
+    },
+    {
+        "name": "Server Performance - Smooth Chunk Save[Forge/Fabric]",
+        "id": 582327,
+        "file": "smoothchunk-fabric-1.20.1-3.6.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save",
+        "download": "https://edge.forgecdn.net/files/5138/126/smoothchunk-fabric-1.20.1-3.6.jar"
+    },
+    {
+        "name": "What Are They Up To (Watut)",
+        "id": 945479,
+        "file": "watut-fabric-1.20.1-1.1.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to",
+        "download": "https://edge.forgecdn.net/files/5597/379/watut-fabric-1.20.1-1.1.3.jar"
+    },
+    {
+        "name": "Enderman Overhaul",
+        "id": 574409,
+        "file": "endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/enderman-overhaul",
+        "download": "https://edge.forgecdn.net/files/5019/622/endermanoverhaul-fabric-1.20.1-1.0.4.jar"
+    },
+    {
+        "name": "Puzzles Lib [Forge & Fabric]",
+        "id": 495476,
+        "file": "PuzzlesLib-v8.1.23-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+        "download": "https://edge.forgecdn.net/files/5707/406/PuzzlesLib-v8.1.23-1.20.1-Fabric.jar"
+    },
+    {
+        "name": "BadOptimizations",
+        "id": 949555,
+        "file": "BadOptimizations-2.1.4-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/badoptimizations",
+        "download": "https://edge.forgecdn.net/files/5430/253/BadOptimizations-2.1.4-1.20.1.jar"
+    },
+    {
+        "name": "Chat Heads",
+        "id": 407206,
+        "file": "chat_heads-0.13.2-fabric-1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/chat-heads",
+        "download": "https://edge.forgecdn.net/files/5749/650/chat_heads-0.13.2-fabric-1.20.jar"
+    },
+    {
+        "name": "Let Me Despawn",
+        "id": 663477,
+        "file": "letmedespawn-fabric-1.3.2c.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/let-me-despawn",
+        "download": "https://edge.forgecdn.net/files/5748/713/letmedespawn-fabric-1.3.2c.jar"
+    },
+    {
+        "name": "Decorative Blocks",
+        "id": 362528,
+        "file": "decorative_blocks-fabric-1.20.1-4.1.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/decorative-blocks",
+        "download": "https://edge.forgecdn.net/files/5089/408/decorative_blocks-fabric-1.20.1-4.1.3.jar"
+    },
+    {
+        "name": "Lithium (Fabric)",
+        "id": 360438,
+        "file": "lithium-fabric-mc1.20.1-0.11.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lithium",
+        "download": "https://edge.forgecdn.net/files/4765/724/lithium-fabric-mc1.20.1-0.11.2.jar"
+    },
+    {
+        "name": "Trinkets (Fabric)",
+        "id": 341284,
+        "file": "trinkets-3.7.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/trinkets",
+        "download": "https://edge.forgecdn.net/files/5173/501/trinkets-3.7.2.jar"
+    },
+    {
+        "name": "Jade \ud83d\udd0d",
+        "id": 324717,
+        "file": "Jade-1.20-fabric-11.11.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jade",
+        "download": "https://edge.forgecdn.net/files/5666/690/Jade-1.20-fabric-11.11.0.jar"
+    },
+    {
+        "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+        "id": 348521,
+        "file": "cloth-config-11.1.136-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+        "download": "https://edge.forgecdn.net/files/5729/104/cloth-config-11.1.136-fabric.jar"
+    },
+    {
+        "name": "Artifacts",
+        "id": 312353,
+        "file": "artifacts-fabric-9.5.13.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts",
+        "download": "https://edge.forgecdn.net/files/5693/345/artifacts-fabric-9.5.13.jar"
+    },
+    {
+        "name": "YUNG's Bridges (Fabric)",
+        "id": 590988,
+        "file": "YungsBridges-1.20-Fabric-4.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric",
+        "download": "https://edge.forgecdn.net/files/4769/520/YungsBridges-1.20-Fabric-4.0.3.jar"
+    },
+    {
+        "name": "YUNG's Better Nether Fortresses (Fabric)",
+        "id": 817666,
+        "file": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric",
+        "download": "https://edge.forgecdn.net/files/5193/464/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar"
+    },
+    {
+        "name": "CoroUtil",
+        "id": 237749,
+        "file": "coroutil-fabric-1.20.1-1.3.7.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/coroutil",
+        "download": "https://edge.forgecdn.net/files/5110/802/coroutil-fabric-1.20.1-1.3.7.jar"
+    },
+    {
+        "name": "Storage Delight (Fabric)",
+        "id": 978786,
+        "file": "storagedelight-24.09.11-1.20-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/storage-delight-fabric",
+        "download": "https://edge.forgecdn.net/files/5714/774/storagedelight-24.09.11-1.20-fabric.jar"
+    },
+    {
+        "name": "Iris Shaders",
+        "id": 455508,
+        "file": "iris-1.7.2+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/irisshaders",
+        "download": "https://edge.forgecdn.net/files/5485/649/iris-1.7.2%2bmc1.20.1.jar"
+    },
+    {
+        "name": "Chunk Sending[Forge/Fabric]",
+        "id": 831663,
+        "file": "chunksending-fabric-1.20.1-2.8.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric",
+        "download": "https://edge.forgecdn.net/files/4894/794/chunksending-fabric-1.20.1-2.8.jar"
+    },
+    {
+        "name": "AttributeFix",
+        "id": 280510,
+        "file": "AttributeFix-Fabric-1.20.1-21.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/attributefix",
+        "download": "https://edge.forgecdn.net/files/4911/83/AttributeFix-Fabric-1.20.1-21.0.4.jar"
+    },
+    {
+        "name": "End's Delight",
+        "id": 662675,
+        "file": "ends_delight-fabric-1.20.1-2.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ends-delight",
+        "download": "https://edge.forgecdn.net/files/5567/428/ends_delight-fabric-1.20.1-2.1.jar"
+    },
+    {
+        "name": "YUNG's Better Dungeons (Fabric)",
+        "id": 525586,
+        "file": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric",
+        "download": "https://edge.forgecdn.net/files/5271/361/YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
+    },
+    {
+        "name": "Lootr (Fabric)",
+        "id": 615106,
+        "file": "lootr-fabric-1.20-0.7.34.84.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lootr-fabric",
+        "download": "https://edge.forgecdn.net/files/5639/247/lootr-fabric-1.20-0.7.34.84.jar"
+    },
+    {
+        "name": "Farmer's Delight Refabricated",
+        "id": 993166,
+        "file": "FarmersDelight-1.20.1-2.1.6+refabricated.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated",
+        "download": "https://edge.forgecdn.net/files/5684/645/FarmersDelight-1.20.1-2.1.6%2brefabricated.jar"
+    },
+    {
+        "name": "Creeper Overhaul",
+        "id": 561625,
+        "file": "creeperoverhaul-3.0.2-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul",
+        "download": "https://edge.forgecdn.net/files/5125/712/creeperoverhaul-3.0.2-fabric.jar"
+    },
+    {
+        "name": "MmmMmmMmmMmm (Target Dummy)",
+        "id": 225738,
+        "file": "dummmmmmy-1.20-2.0.3-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm",
+        "download": "https://edge.forgecdn.net/files/5742/636/dummmmmmy-1.20-2.0.3-fabric.jar"
+    },
+    {
+        "name": "Iris & Oculus Flywheel Compat",
+        "id": 659897,
+        "file": "iris-flywheel-compat-fabric1.20.1+1.1.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat",
+        "download": "https://edge.forgecdn.net/files/5603/568/iris-flywheel-compat-fabric1.20.1%2b1.1.2.jar"
+    },
+    {
+        "name": "Client Crafting",
+        "id": 888790,
+        "file": "clientcrafting-fabric-1.20.1-1.8.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/client-crafting",
+        "download": "https://edge.forgecdn.net/files/5097/11/clientcrafting-fabric-1.20.1-1.8.jar"
+    },
+    {
+        "name": "Yeetus Experimentus",
+        "id": 635427,
+        "file": "YeetusExperimentus-Fabric-2.3.1-build.6+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus",
+        "download": "https://edge.forgecdn.net/files/4680/831/YeetusExperimentus-Fabric-2.3.1-build.6%2bmc1.20.1.jar"
+    },
+    {
+        "name": "BetterNether",
+        "id": 311377,
+        "file": "better-nether-9.0.10.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/betternether",
+        "download": "https://edge.forgecdn.net/files/4971/478/better-nether-9.0.10.jar"
+    },
+    {
+        "name": "YetAnotherConfigLib",
+        "id": 667299,
+        "file": "YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yacl",
+        "download": "https://edge.forgecdn.net/files/5424/129/YetAnotherConfigLib-3.5.0%2b1.20.1-fabric.jar"
+    },
+    {
+        "name": "Cull Less Leaves",
+        "id": 619718,
+        "file": "CullLessLeaves-1.3.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves",
+        "download": "https://edge.forgecdn.net/files/4719/456/CullLessLeaves-1.3.0.jar"
+    },
+    {
+        "name": "Just Enough Items (JEI)",
+        "id": 238222,
+        "file": "jei-1.20.1-fabric-15.12.2.51.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/jei",
+        "download": "https://edge.forgecdn.net/files/5626/487/jei-1.20.1-fabric-15.12.2.51.jar"
+    },
+    {
+        "name": "Croptopia",
+        "id": 415438,
+        "file": "Croptopia-1.20.1-FABRIC-3.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/croptopia",
+        "download": "https://edge.forgecdn.net/files/4997/461/Croptopia-1.20.1-FABRIC-3.0.4.jar"
+    },
+    {
+        "name": "FTB Essentials (Forge & Fabric)",
+        "id": 410811,
+        "file": "ftb-essentials-fabric-2001.2.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-essentials",
+        "download": "https://edge.forgecdn.net/files/4896/151/ftb-essentials-fabric-2001.2.2.jar"
+    },
+    {
+        "name": "Chipped",
+        "id": 456956,
+        "file": "Chipped-fabric-1.20.1-3.0.6.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/chipped",
+        "download": "https://edge.forgecdn.net/files/5270/40/Chipped-fabric-1.20.1-3.0.6.jar"
+    },
+    {
+        "name": "Stay True",
+        "id": 353554,
+        "file": "Stay_True_1.20.zip",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/stay-true",
+        "download": "https://edge.forgecdn.net/files/4624/707/Stay_True_1.20.zip"
+    },
+    {
+        "name": "Create: Steam 'n' Rails",
+        "id": 688231,
+        "file": "Steam_Rails-1.6.4+fabric-mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
+        "download": "https://edge.forgecdn.net/files/5331/298/Steam_Rails-1.6.4%2bfabric-mc1.20.1.jar"
+    },
+    {
+        "name": "Max Health Fix",
+        "id": 492246,
+        "file": "MaxHealthFix-Fabric-1.20.1-12.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/max-health-fix",
+        "download": "https://edge.forgecdn.net/files/5378/285/MaxHealthFix-Fabric-1.20.1-12.0.3.jar"
+    },
+    {
+        "name": "Trash Cans",
+        "id": 394535,
+        "file": "trashcans-1.0.18-fabric-mc1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/trash-cans",
+        "download": "https://edge.forgecdn.net/files/4606/911/trashcans-1.0.18-fabric-mc1.20.jar"
+    },
+    {
+        "name": "YUNG's API (Fabric)",
+        "id": 421649,
+        "file": "YungsApi-1.20-Fabric-4.0.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric",
+        "download": "https://edge.forgecdn.net/files/5331/704/YungsApi-1.20-Fabric-4.0.5.jar"
+    },
+    {
+        "name": "Leaky - Item Lag Fix[Forge/Fabric]",
+        "id": 856906,
+        "file": "leaky-fabric-1.20.1-2.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/leaky",
+        "download": "https://edge.forgecdn.net/files/5340/928/leaky-fabric-1.20.1-2.1.jar"
+    },
+    {
+        "name": "Item Highlighter [Fabric]",
+        "id": 541578,
+        "file": "Highlighter-1.20.1-fabric-1.1.9.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/item-highlighter-fabric",
+        "download": "https://edge.forgecdn.net/files/4940/605/Highlighter-1.20.1-fabric-1.1.9.jar"
+    },
+    {
+        "name": "Reese's Sodium Options",
+        "id": 511319,
+        "file": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options",
+        "download": "https://edge.forgecdn.net/files/5075/462/reeses_sodium_options-1.7.2%2bmc1.20.1-build.101.jar"
+    },
+    {
+        "name": "Createful Plaques",
+        "id": 920589,
+        "file": "Createful-Plaques v0.6 (1.20.x).zip",
+        "url": "https://www.curseforge.com/minecraft/texture-packs/createful-plaques",
+        "download": "https://edge.forgecdn.net/files/4814/101/Createful-Plaques%20v0.6%20(1.20.x).zip"
+    },
+    {
+        "name": "Necronomicon API",
+        "id": 586157,
+        "file": "Necronomicon-Fabric-1.4.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/necronomicon",
+        "download": "https://edge.forgecdn.net/files/5091/307/Necronomicon-Fabric-1.4.2.jar"
+    },
+    {
+        "name": "Comforts (Fabric/Forge/Quilt)",
+        "id": 276951,
+        "file": "comforts-fabric-6.4.0+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/comforts",
+        "download": "https://edge.forgecdn.net/files/5503/514/comforts-fabric-6.4.0%2b1.20.1.jar"
+    },
+    {
+        "name": "BCLib",
+        "id": 495191,
+        "file": "bclib-3.0.14.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bclib",
+        "download": "https://edge.forgecdn.net/files/4971/470/bclib-3.0.14.jar"
+    },
+    {
+        "name": "Model Gap Fix",
+        "id": 676136,
+        "file": "modelfix-1.15-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/model-gap-fix",
+        "download": "https://edge.forgecdn.net/files/5200/948/modelfix-1.15-fabric.jar"
+    },
+    {
+        "name": "Indium",
+        "id": 459496,
+        "file": "indium-1.0.34+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/indium",
+        "download": "https://edge.forgecdn.net/files/5493/195/indium-1.0.34%2bmc1.20.1.jar"
+    },
+    {
+        "name": "YUNG's Better Strongholds (Fabric)",
+        "id": 480684,
+        "file": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric",
+        "download": "https://edge.forgecdn.net/files/4769/84/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
+    },
+    {
+        "name": "Applied Energistics 2 Wireless Terminals",
+        "id": 459929,
+        "file": "ae2wtlib-15.2.1-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals",
+        "download": "https://edge.forgecdn.net/files/4936/436/ae2wtlib-15.2.1-fabric.jar"
+    },
+    {
+        "name": "Wakes",
+        "id": 884267,
+        "file": "wakes-0.3.0+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/wakes",
+        "download": "https://edge.forgecdn.net/files/5658/690/wakes-0.3.0%2b1.20.1.jar"
+    },
+    {
+        "name": "Visuality",
+        "id": 521126,
+        "file": "visuality-0.7.1+1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/visuality",
+        "download": "https://edge.forgecdn.net/files/4760/21/visuality-0.7.1%2b1.20.jar"
+    },
+    {
+        "name": "Bookshelf",
+        "id": 228525,
+        "file": "Bookshelf-Fabric-1.20.1-20.2.13.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
+        "download": "https://edge.forgecdn.net/files/5423/988/Bookshelf-Fabric-1.20.1-20.2.13.jar"
+    },
+    {
+        "name": "Leaves Be Gone [Forge & Fabric]",
+        "id": 686435,
+        "file": "LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/leaves-be-gone",
+        "download": "https://edge.forgecdn.net/files/4613/294/LeavesBeGone-v8.0.0-1.20.1-Fabric.jar"
+    },
+    {
+        "name": "AmbientSounds 6",
+        "id": 254284,
+        "file": "AmbientSounds_FABRIC_v6.1.1_mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds",
+        "download": "https://edge.forgecdn.net/files/5739/374/AmbientSounds_FABRIC_v6.1.1_mc1.20.1.jar"
+    },
+    {
+        "name": "Clumps",
+        "id": 256717,
+        "file": "Clumps-fabric-1.20.1-12.0.0.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+        "download": "https://edge.forgecdn.net/files/5278/537/Clumps-fabric-1.20.1-12.0.0.4.jar"
+    },
+    {
+        "name": "Entity Culling Fabric/Forge",
+        "id": 448233,
+        "file": "entityculling-fabric-1.7.0-mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+        "download": "https://edge.forgecdn.net/files/5672/90/entityculling-fabric-1.7.0-mc1.20.1.jar"
+    },
+    {
+        "name": "Legendary Tooltips [Fabric]",
+        "id": 542478,
+        "file": "LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips-fabric",
+        "download": "https://edge.forgecdn.net/files/4940/615/LegendaryTooltips-1.20.1-fabric-1.4.5.jar"
+    },
+    {
+        "name": "CreativeCore",
+        "id": 257814,
+        "file": "CreativeCore_FABRIC_v2.12.14_mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+        "download": "https://edge.forgecdn.net/files/5739/364/CreativeCore_FABRIC_v2.12.14_mc1.20.1.jar"
+    },
+    {
+        "name": "GeckoLib",
+        "id": 388172,
+        "file": "geckolib-fabric-1.20.1-4.4.9.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/geckolib",
+        "download": "https://edge.forgecdn.net/files/5675/212/geckolib-fabric-1.20.1-4.4.9.jar"
+    },
+    {
+        "name": "No Chat Reports",
+        "id": 634062,
+        "file": "NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/no-chat-reports",
+        "download": "https://edge.forgecdn.net/files/4610/472/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
+    },
+    {
+        "name": "Lithostitched",
+        "id": 936015,
+        "file": "lithostitched-fabric-1.20.1-1.3.1a.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+        "download": "https://edge.forgecdn.net/files/5747/45/lithostitched-fabric-1.20.1-1.3.1a.jar"
+    },
+    {
+        "name": "Supplementaries",
+        "id": 412082,
+        "file": "supplementaries-1.20-2.8.17-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries",
+        "download": "https://edge.forgecdn.net/files/5676/66/supplementaries-1.20-2.8.17-fabric.jar"
+    },
+    {
+        "name": "FerriteCore (Fabric)",
+        "id": 459857,
+        "file": "ferritecore-6.0.1-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric",
+        "download": "https://edge.forgecdn.net/files/4810/977/ferritecore-6.0.1-fabric.jar"
+    },
+    {
+        "name": "Eating Animation [Fabric]",
+        "id": 527023,
+        "file": "eating-animation-1.20+1.9.61.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric",
+        "download": "https://edge.forgecdn.net/files/5212/742/eating-animation-1.20%2b1.9.61.jar"
+    },
+    {
+        "name": "Structure Essentials[Forge/Fabric]",
+        "id": 832882,
+        "file": "structureessentials-fabric-1.20.1-3.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric",
+        "download": "https://edge.forgecdn.net/files/5392/624/structureessentials-fabric-1.20.1-3.4.jar"
+    },
+    {
+        "name": "Create Crafts & Additions",
+        "id": 439890,
+        "file": "createaddition-fabric+1.20.1-1.2.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
+        "download": "https://edge.forgecdn.net/files/5460/454/createaddition-fabric%2b1.20.1-1.2.4.jar"
+    },
+    {
+        "name": "YUNG's Better Desert Temples (Fabric)",
+        "id": 631020,
+        "file": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric",
+        "download": "https://edge.forgecdn.net/files/4769/440/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar"
+    },
+    {
+        "name": "Fabric API",
+        "id": 306612,
+        "file": "fabric-api-0.92.2+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-api",
+        "download": "https://edge.forgecdn.net/files/5383/715/fabric-api-0.92.2%2b1.20.1.jar"
+    },
+    {
+        "name": "Applied Energistics 2",
+        "id": 223794,
+        "file": "appliedenergistics2-fabric-15.2.12.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2",
+        "download": "https://edge.forgecdn.net/files/5588/163/appliedenergistics2-fabric-15.2.12.jar"
+    },
+    {
+        "name": "Sound Physics Remastered",
+        "id": 535489,
+        "file": "sound-physics-remastered-fabric-1.20.1-1.4.5.jar.disabled",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered",
+        "download": "https://edge.forgecdn.net/files/5525/257/sound-physics-remastered-fabric-1.20.1-1.4.5.jar"
+    },
+    {
+        "name": "Mouse Tweaks",
+        "id": 60089,
+        "file": "MouseTweaks-fabric-mc1.20-2.26.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks",
+        "download": "https://edge.forgecdn.net/files/5230/279/MouseTweaks-fabric-mc1.20-2.26.jar"
+    },
+    {
+        "name": "Noisium",
+        "id": 930207,
+        "file": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/noisium",
+        "download": "https://edge.forgecdn.net/files/5650/500/noisium-fabric-2.3.0%2bmc1.20-1.20.1.jar"
+    },
+    {
+        "name": "Moonlight Lib",
+        "id": 499980,
+        "file": "moonlight-1.20-2.13.0-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/selene",
+        "download": "https://edge.forgecdn.net/files/5731/104/moonlight-1.20-2.13.0-fabric.jar"
+    },
+    {
+        "name": "FootprintParticle",
+        "id": 832070,
+        "file": "footprintparticle-0.5.2-mc1.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/footprintparticle",
+        "download": "https://edge.forgecdn.net/files/5476/636/footprintparticle-0.5.2-mc1.20.jar"
+    },
+    {
+        "name": "Small Ships [Fabric & Forge]",
+        "id": 450659,
+        "file": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/small-ships",
+        "download": "https://edge.forgecdn.net/files/5566/902/smallships-fabric-1.20.1-2.0.0-b1.4.jar"
+    },
+    {
+        "name": "Iceberg [Fabric]",
+        "id": 539382,
+        "file": "Iceberg-1.20.1-fabric-1.1.18.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric",
+        "download": "https://edge.forgecdn.net/files/4953/470/Iceberg-1.20.1-fabric-1.1.18.jar"
+    },
+    {
+        "name": "Athena",
+        "id": 841890,
+        "file": "athena-fabric-1.20.1-3.1.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/athena",
+        "download": "https://edge.forgecdn.net/files/5176/880/athena-fabric-1.20.1-3.1.2.jar"
+    },
+    {
+        "name": "Pick Up Notifier [Forge & Fabric]",
+        "id": 351441,
+        "file": "PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier",
+        "download": "https://edge.forgecdn.net/files/4613/539/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar"
+    },
+    {
+        "name": "Better chunk loading[Forge/Fabric]",
+        "id": 899487,
+        "file": "betterchunkloading-fabric-1.20.1-4.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/better-chunk-loading-forge-fabric",
+        "download": "https://edge.forgecdn.net/files/5747/87/betterchunkloading-fabric-1.20.1-4.5.jar"
+    },
+    {
+        "name": "Make Bubbles Pop [Client] [Forge/Fabric/Quilt]",
+        "id": 605235,
+        "file": "make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/make-bubbles-pop",
+        "download": "https://edge.forgecdn.net/files/5532/619/make_bubbles_pop-0.3.0-fabric-mc1.19.4-1.21.jar"
+    },
+    {
+        "name": "YUNG's Better Witch Huts (Fabric)",
+        "id": 631403,
+        "file": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric",
+        "download": "https://edge.forgecdn.net/files/4769/490/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
+    },
+    {
+        "name": "Distant Horizons: A Level of Detail mod",
+        "id": 508933,
+        "file": "DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar.disabled",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/distant-horizons",
+        "download": "https://edge.forgecdn.net/files/5689/279/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar"
+    },
+    {
+        "name": "BetterEnd",
+        "id": 413596,
+        "file": "better-end-4.0.11.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/betterend",
+        "download": "https://edge.forgecdn.net/files/4971/487/better-end-4.0.11.jar"
+    },
+    {
+        "name": "FTB Library (Fabric)",
+        "id": 438495,
+        "file": "ftb-library-fabric-2001.2.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric",
+        "download": "https://edge.forgecdn.net/files/5567/590/ftb-library-fabric-2001.2.4.jar"
+    },
+    {
+        "name": "SuperMartijn642's Core Lib",
+        "id": 454372,
+        "file": "supermartijn642corelib-1.1.17a-fabric-mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib",
+        "download": "https://edge.forgecdn.net/files/5668/908/supermartijn642corelib-1.1.17a-fabric-mc1.20.1.jar"
+    },
+    {
+        "name": "You Shall Not Spawn! [Forge/Fabric]",
+        "id": 628744,
+        "file": "YouShallNotSpawn-fabric-1.20.x-2.0.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/you-shall-not-spawn",
+        "download": "https://edge.forgecdn.net/files/5594/652/YouShallNotSpawn-fabric-1.20.x-2.0.1.jar"
+    },
+    {
+        "name": "Not Enough Animations",
+        "id": 433760,
+        "file": "notenoughanimations-fabric-1.7.6-mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/not-enough-animations",
+        "download": "https://edge.forgecdn.net/files/5698/667/notenoughanimations-fabric-1.7.6-mc1.20.1.jar"
+    },
+    {
+        "name": "TerraBlender (Fabric)",
+        "id": 565956,
+        "file": "TerraBlender-fabric-1.20.1-3.0.1.7.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric",
+        "download": "https://edge.forgecdn.net/files/5378/181/TerraBlender-fabric-1.20.1-3.0.1.7.jar"
+    },
+    {
+        "name": "YUNG's Better Jungle Temples (Fabric)",
+        "id": 897678,
+        "file": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-fabric",
+        "download": "https://edge.forgecdn.net/files/5331/761/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar"
+    },
+    {
+        "name": "ImmediatelyFast",
+        "id": 686911,
+        "file": "ImmediatelyFast-Fabric-1.2.21+1.20.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/immediatelyfast",
+        "download": "https://edge.forgecdn.net/files/5672/336/ImmediatelyFast-Fabric-1.2.21%2b1.20.4.jar"
+    },
+    {
+        "name": "Cherished Worlds (Fabric/Forge/NeoForge/Quilt)",
+        "id": 308240,
+        "file": "cherishedworlds-fabric-6.1.6+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cherished-worlds",
+        "download": "https://edge.forgecdn.net/files/5161/387/cherishedworlds-fabric-6.1.6%2b1.20.1.jar"
+    },
+    {
+        "name": "Deeper and Darker",
+        "id": 659011,
+        "file": "deeperdarker-fabric-1.20-1.3.2.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/deeperdarker",
+        "download": "https://edge.forgecdn.net/files/5725/442/deeperdarker-fabric-1.20-1.3.2.1.jar"
+    },
+    {
+        "name": "Fabric Language Kotlin",
+        "id": 308769,
+        "file": "fabric-language-kotlin-1.12.2+kotlin.2.0.20.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin",
+        "download": "https://edge.forgecdn.net/files/5733/893/fabric-language-kotlin-1.12.2%2bkotlin.2.0.20.jar"
+    },
+    {
+        "name": "Configured",
+        "id": 457570,
+        "file": "configured-fabric-1.20.1-2.2.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/configured",
+        "download": "https://edge.forgecdn.net/files/5180/902/configured-fabric-1.20.1-2.2.3.jar"
+    },
+    {
+        "name": "Iris/Oculus & GeckoLib Compat",
+        "id": 959388,
+        "file": "GeckoLibIrisCompat-Fabric-1.0.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/geckoanimfix",
+        "download": "https://edge.forgecdn.net/files/5015/554/GeckoLibIrisCompat-Fabric-1.0.0.jar"
+    },
+    {
+        "name": "Backpacked",
+        "id": 352835,
+        "file": "backpacked-fabric-1.20.1-3.0.0-beta.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/backpacked",
+        "download": "https://edge.forgecdn.net/files/5401/968/backpacked-fabric-1.20.1-3.0.0-beta.4.jar"
+    },
+    {
+        "name": "Sodium/Embeddium Options API",
+        "id": 1103431,
+        "file": "sodiumoptionsapi-fabric-1.0.2-1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/sodium-options-api",
+        "download": "https://edge.forgecdn.net/files/5727/851/sodiumoptionsapi-fabric-1.0.2-1.20.1.jar"
+    },
+    {
+        "name": "Almost Unified",
+        "id": 633823,
+        "file": "almostunified-fabric-1.20.1-0.9.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/almost-unified",
+        "download": "https://edge.forgecdn.net/files/5517/425/almostunified-fabric-1.20.1-0.9.4.jar"
+    },
+    {
+        "name": "ModernFix",
+        "id": 790626,
+        "file": "modernfix-fabric-5.19.4+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/modernfix",
+        "download": "https://edge.forgecdn.net/files/5676/12/modernfix-fabric-5.19.4%2bmc1.20.1.jar"
+    },
+    {
+        "name": "Falling Leaves (Fabric)",
+        "id": 417510,
+        "file": "fallingleaves-1.15.6+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric",
+        "download": "https://edge.forgecdn.net/files/5240/313/fallingleaves-1.15.6%2b1.20.1.jar"
+    },
+    {
+        "name": "Botarium",
+        "id": 704113,
+        "file": "botarium-fabric-1.20.1-2.3.4.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/botarium",
+        "download": "https://edge.forgecdn.net/files/5486/71/botarium-fabric-1.20.1-2.3.4.jar"
+    },
+    {
+        "name": "Cupboard",
+        "id": 326652,
+        "file": "cupboard-fabric-1.20.1-2.7.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/cupboard",
+        "download": "https://edge.forgecdn.net/files/5470/34/cupboard-fabric-1.20.1-2.7.jar"
+    },
+    {
+        "name": "Smarter Farmers (farmers replant)",
+        "id": 491290,
+        "file": "smarterfarmers-1.20-2.1.0-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/smarter-farmers-farmers-replant",
+        "download": "https://edge.forgecdn.net/files/5699/534/smarterfarmers-1.20-2.1.0-fabric.jar"
+    },
+    {
+        "name": "Complementary Shaders - Unbound",
+        "id": 385587,
+        "file": "ComplementaryUnbound_r5.2.2.zip",
+        "url": "https://www.curseforge.com/minecraft/shaders/complementary-unbound",
+        "download": "https://edge.forgecdn.net/files/5507/479/ComplementaryUnbound_r5.2.2.zip"
+    },
+    {
+        "name": "Continuity",
+        "id": 531351,
+        "file": "continuity-3.0.0-beta.5+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/continuity",
+        "download": "https://edge.forgecdn.net/files/5344/958/continuity-3.0.0-beta.5%2b1.20.1.jar"
+    },
+    {
+        "name": "YUNG's Extras (Fabric)",
+        "id": 590993,
+        "file": "YungsExtras-1.20-Fabric-4.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric",
+        "download": "https://edge.forgecdn.net/files/4769/515/YungsExtras-1.20-Fabric-4.0.3.jar"
+    },
+    {
+        "name": "Colorful Hearts",
+        "id": 854213,
+        "file": "colorfulhearts-fabric-1.20.1-4.3.16.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/colorful-hearts",
+        "download": "https://edge.forgecdn.net/files/5724/979/colorfulhearts-fabric-1.20.1-4.3.16.jar"
+    },
+    {
+        "name": "FTB Chunks (Fabric)",
+        "id": 472657,
+        "file": "ftb-chunks-fabric-2001.3.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-fabric",
+        "download": "https://edge.forgecdn.net/files/5378/89/ftb-chunks-fabric-2001.3.1.jar"
+    },
+    {
+        "name": "River Redux",
+        "id": 380548,
+        "file": "riverredux-0.3.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/river-redux",
+        "download": "https://edge.forgecdn.net/files/4587/198/riverredux-0.3.1.jar"
+    },
+    {
+        "name": "FTB Teams (Fabric)",
+        "id": 438497,
+        "file": "ftb-teams-fabric-2001.3.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric",
+        "download": "https://edge.forgecdn.net/files/5267/188/ftb-teams-fabric-2001.3.0.jar"
+    },
+    {
+        "name": "Extended Drawers",
+        "id": 616602,
+        "file": "ExtendedDrawers-2.1.1+mc.1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/extended-drawers",
+        "download": "https://edge.forgecdn.net/files/5022/286/ExtendedDrawers-2.1.1%2bmc.1.20.1.jar"
+    },
+    {
+        "name": "Twigs",
+        "id": 496913,
+        "file": "twigs-3.1.0-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/twigs",
+        "download": "https://edge.forgecdn.net/files/4603/805/twigs-3.1.0-fabric.jar"
+    },
+    {
+        "name": "Amendments",
+        "id": 896746,
+        "file": "amendments-1.20-1.2.11-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/amendments",
+        "download": "https://edge.forgecdn.net/files/5697/383/amendments-1.20-1.2.11-fabric.jar"
+    },
+    {
+        "name": "Neruina - Ticking Entity Fixer",
+        "id": 851046,
+        "file": "Neruina-2.1.2-fabric+1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/neruina",
+        "download": "https://edge.forgecdn.net/files/5666/518/Neruina-2.1.2-fabric%2b1.20.1.jar"
+    },
+    {
+        "name": "YUNG's Better End Island (Fabric)",
+        "id": 901350,
+        "file": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-fabric",
+        "download": "https://edge.forgecdn.net/files/5193/816/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"
+    },
+    {
+        "name": "Village Nullifier",
+        "id": 902233,
+        "file": "village-nullifier-1.0.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/village-nullifier",
+        "download": "https://edge.forgecdn.net/files/5616/214/village-nullifier-1.0.0.jar"
+    },
+    {
+        "name": "Alternate Current",
+        "id": 548115,
+        "file": "alternate-current-mc1.20-1.9.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/alternate-current",
+        "download": "https://edge.forgecdn.net/files/5665/349/alternate-current-mc1.20-1.9.0.jar"
+    },
+    {
+        "name": "Resourceful Config",
+        "id": 714059,
+        "file": "resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+        "download": "https://edge.forgecdn.net/files/5020/442/resourcefulconfig-fabric-1.20.1-2.1.2.jar"
+    },
+    {
+        "name": "Sodium",
+        "id": 394468,
+        "file": "sodium-fabric-0.5.11+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/sodium",
+        "download": "https://edge.forgecdn.net/files/5485/654/sodium-fabric-0.5.11%2bmc1.20.1.jar"
+    },
+    {
+        "name": "Complementary Shaders - Reimagined",
+        "id": 627557,
+        "file": "ComplementaryReimagined_r5.2.2.zip",
+        "url": "https://www.curseforge.com/minecraft/shaders/complementary-reimagined",
+        "download": "https://edge.forgecdn.net/files/5507/475/ComplementaryReimagined_r5.2.2.zip"
+    },
+    {
+        "name": "Memory Settings[Neo/Forge/Fabric]",
+        "id": 526901,
+        "file": "memorysettings-fabric-1.20.1-5.5.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/memory-settings",
+        "download": "https://edge.forgecdn.net/files/5531/211/memorysettings-fabric-1.20.1-5.5.jar"
+    },
+    {
+        "name": "Create Fabric",
+        "id": 624165,
+        "file": "create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/create-fabric",
+        "download": "https://edge.forgecdn.net/files/5245/234/create-fabric-0.5.1-f-build.1417%2bmc1.20.1.jar"
+    },
+    {
+        "name": "Too Fast",
+        "id": 550678,
+        "file": "toofast-fabric-1.20-1.2.0.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/too-fast",
+        "download": "https://edge.forgecdn.net/files/4628/61/toofast-fabric-1.20-1.2.0.jar"
+    },
+    {
+        "name": "Connectivity[Forge/Fabric]",
+        "id": 470193,
+        "file": "connectivity-fabric-1.20.1-5.8.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/connectivity",
+        "download": "https://edge.forgecdn.net/files/5728/629/connectivity-fabric-1.20.1-5.8.jar"
+    },
+    {
+        "name": "LazyDFU",
+        "id": 433518,
+        "file": "lazydfu-0.1.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/lazydfu",
+        "download": "https://edge.forgecdn.net/files/3821/870/lazydfu-0.1.3.jar"
+    },
+    {
+        "name": "Explorer's Compass",
+        "id": 491794,
+        "file": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/explorers-compass",
+        "download": "https://edge.forgecdn.net/files/4712/192/ExplorersCompass-1.20.1-2.2.3-fabric.jar"
+    },
+    {
+        "name": "Searchables",
+        "id": 858542,
+        "file": "Searchables-fabric-1.20.1-1.0.3.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/searchables",
+        "download": "https://edge.forgecdn.net/files/5284/14/Searchables-fabric-1.20.1-1.0.3.jar"
+    },
+    {
+        "name": "Fast Paintings",
+        "id": 883287,
+        "file": "fastpaintings-1.20-1.2.7-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/fast-paintings",
+        "download": "https://edge.forgecdn.net/files/5324/823/fastpaintings-1.20-1.2.7-fabric.jar"
+    },
+    {
+        "name": "Supplementaries Squared",
+        "id": 838411,
+        "file": "suppsquared-1.20-1.1.15-fabric.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared",
+        "download": "https://edge.forgecdn.net/files/5711/237/suppsquared-1.20-1.1.15-fabric.jar"
+    },
+    {
+        "name": "Controlling",
+        "id": 250398,
+        "file": "Controlling-fabric-1.20.1-12.0.2.jar",
+        "url": "https://www.curseforge.com/minecraft/mc-mods/controlling",
+        "download": "https://edge.forgecdn.net/files/4646/681/Controlling-fabric-1.20.1-12.0.2.jar"
+    }
+]
